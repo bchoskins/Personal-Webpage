@@ -10,7 +10,7 @@ app.config['JSON_SORT_KEYS'] = False
 def index():
     # website_data = yaml.load(open('_config.yaml'))
     with open('_config.yaml') as f:
-    website_data = yaml.load(f, Loader=yaml.SafeLoader)
+        website_data = yaml.load(f, Loader=yaml.SafeLoader)
 
     return render_template('index.html', data=website_data)
 
