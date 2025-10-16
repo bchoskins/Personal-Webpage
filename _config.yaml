@@ -12,11 +12,11 @@ profile:
   description: |
     I am an avid believer in the power of data and enjoy working with data to solve problems that help others.
     
-    I recently completed my Master of Science - MS in Applied and Computational Mathematics and Statistics: Data Science Specialization from the University of Notre Dame.
+    I previously completed my Master of Science - MS in Applied and Computational Mathematics and Statistics: Data Science Specialization from the University of Notre Dame.
     
     I also participated in several machine and deep learning research projects during a two year undergraduate fellowship for the Department of Psychiatry at the University of Iowa. 
     
-    I am currently working as a Senior Data Science Consultant at Elevance Health.
+    I am currently working as a Data Scientist at Principal Financial Group.
 
 
 # Social section
@@ -114,11 +114,18 @@ projects:
 
 # Experience section
 experience:
+  item10:
+    position: Data Scientist III
+    company: Principal Financial Group
+    from: August 2025
+    to: Present
+    description: >
+    link: https://www.principal.com/
   item9:
     position: Senior Data Science Consultant
     company: Elevance Health
     from: May 2024
-    to: Present
+    to: August 2025
     description: >
     link: https://www.elevancehealth.com/
   item8:
@@ -130,7 +137,7 @@ experience:
       Consulting for the State of Indiana.
     link: https://www.eimagine.com/
   item7:
-    position: Data Scientist
+    position: Data Scientist II
     company: Principal Financial Group
     from: July 2021
     to: October 2023
