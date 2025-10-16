@@ -1,0 +1,301 @@
+# Profile section
+profile:
+  first_name: Brady
+  last_name: Hoskins
+  picture: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/bradyHoskins.png?v=1639586485940   # Hosted picture
+  #picture: static/img/rodo_2021.png  # Local picture
+  contact:
+    address_one: Indianapolis, IN
+    address_two:
+    phone: (309)236-3696
+  email: bhoskins@alumni.nd.edu
+  description: |
+    I am an avid believer in the power of data and enjoy working with data to solve problems that help others.
+    
+    I recently completed my Master of Science - MS in Applied and Computational Mathematics and Statistics: Data Science Specialization from the University of Notre Dame.
+    
+    I also participated in several machine and deep learning research projects during a two year undergraduate fellowship for the Department of Psychiatry at the University of Iowa. 
+    
+    I am currently working as a Senior Data Science Consultant at Elevance Health.
+
+
+# Social section
+social:
+  github: https://github.com/bchoskins
+  gitlab: https://gitlab.com/bchoskins
+  linkedin: https://www.linkedin.com/in/brady-hoskins-272355136/
+  instagram: https://www.instagram.com/bradyh03/
+  
+# Skills section
+tools:
+  # Consider that the following are fa icons:
+  #   https://fontawesome.com/icons?d=gallery&s=brands
+  - python
+  - r-project
+  - aws
+  - microsoft
+  - js
+  - git-alt
+  - salesforce
+  - bitbucket
+  - linux
+  - ubuntu
+  - slack
+  - discord
+
+  
+extra_skills:
+  - Machine learning and deep learning
+  - Databases, SQL, Neo4j
+  - Image recognition and computer vision
+  - Nautral langauage processing
+  - Statistical Analysis, SAS
+  - Data visualization
+  - Storytelling
+  - Object-oriented programming (OOP)
+  - Algorithms
+  - Software Engineering
+  
+# Projects section
+projects:
+  item1:
+    title: Medical School Residency Research Dashboard
+    subtitle: A dashboard I am working on to assist my fiance in her residency application research process.
+    link: https://bradyhoskins.shinyapps.io/ResidencyLocationProject/?_ga=2.80853140.281118908.1640012218-2033118925.1638380204
+    github: https://github.com/bchoskins/ResidencyDashboard/tree/1aafa6c19ab258d373bd9ab827cd1d068e635d45
+    img: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/stethoscope-g5e2ee10ef_1920.jpg?v=1640056314579
+    tags: [R, Shiny, Data Cleaning, Data Visualization, Dashboards]
+  item2:
+    title: Modeling Autism Related Missense Variant Protein-Protein Interactions with a Siamese RNN
+    subtitle: A first of its kind attempt to model missense variant PPI
+    description: Working to gain a greater understanding of mutations in ASD that will lead to better diagnostics.
+    link: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/RNN_PresentationUpdated.pptx.pdf?v=1639765345093
+    github: https://gitlab.com/bchoskins/MissenseVariantPPI
+    img: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/RNN.png?v=1639765767820
+    tags: [Python, R, Deep Learning, RNN, Data Cleaning]
+  item3:
+    title: Analyzing Retinal Images to Classify Mental Health Disorders
+    subtitle: Attempting to predict mental health disorders by observing degradation of retina
+    description: The intent of this project was to search for a quick, early onset identifier for potential mental health disorders.
+    link: https://github.com/bchoskins/RetinaDL
+    github: https://github.com/bchoskins/RetinaDL
+    img: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/eye-ga5db440a8_1280.jpg?v=1639766762760
+    tags: [Python, Deep Learning, Image Recognition, CNN]
+  item4:
+    title: Predicting Autism Spectrum Disorder (ASD) at Birth Using Machine Learning
+    subtitle:  Using newborn metabolite data to train machine learning models to detect ASD risk factors
+    description: Autism Spectrum Disorder (ASD) diagnosis is often a lengthy, difficult process typically conducted at the ages 2-5. Here the focus was to provide a simple way to detect at risk children at birth.
+    link: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/SURF_Poster_Final_BH.pdf?v=1639684968680
+    github: https://gitlab.com/bchoskins/Lab_BH/-/blob/master/rfTuning.R
+    img: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/autism-g952af9de5_1920.png?v=1639767559860
+    tags: [R, Machine Learning, Classification]
+  item5:
+    title: South Bend Civic Data Analysis Shiny App
+    subtitle: A dashboard to analyze various datasets focusing on areas of interest to South Bend
+    link: https://robert-at-nd.shinyapps.io/East7_Final_Project/
+    github: https://github.com/bchoskins/SouthBend_ShinyApp/tree/main/Code
+    img: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/courthouse-in-south-bend-indiana_800.jpeg?v=1639772748649
+    tags: [R, Exploratory Data Analysis, Shiny, Data Visualization, GIS]
+  item6:
+    title: Identification of Malignant Tumors in Breast Tissue
+    subtitle: Utilizing machine learning techniques to assist in identifying malignant tumors
+    link: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/MalignantSlides.pdf?v=1639772014849
+    github: https://github.com/bchoskins/malignant_tumors
+    img: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/pink-ribbon-gc8288be0e_1920.jpg?v=1639772120239
+    tags: [R, Machine Learning, Exploratory Data Analysis, Classification]
+  #item6:
+    #title: Predicting Housing Prices
+    #subtitle:  Using various features and pricing data from previous home sales to predict selling price of homes
+    #link: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/Presentation_BH.pdf?v=1639769215497
+    #github: https://github.com/bchoskins/housing/tree/main/Housing
+    #img: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/house-g8833f4837_1920.jpg?v=1639769062690
+    #tags: [Python, Machine Learning, Exploratory Data Analysis, Regression]
+
+
+# Experience section
+experience:
+  item9:
+    position: Senior Data Science Consultant
+    company: Elevance Health
+    from: May 2024
+    to: Present
+    description: >
+    link: https://www.elevancehealth.com/
+  item8:
+    position: Data Scientist
+    company: eimagine
+    from: October 2023
+    to: May 2024
+    description: >
+      Consulting for the State of Indiana.
+    link: https://www.eimagine.com/
+  item7:
+    position: Data Scientist
+    company: Principal Financial Group
+    from: July 2021
+    to: October 2023
+    description: >
+      Partnered with language AI team on comprehensive customer initiative using data modeling to aid customer journey understanding to enhance customer ease of doing business.
+      Appointed as lead data scientist for data and tooling requirements while creating roles and environments for enterprise wide AWS customer and marketing analytics R&D accounts.
+      Managed and mentored an analytics intern through 2 projects utilizing PowerBI dashboards.
+      Served as subject matter expert for getting 10 team members acclimated to AWS during our transition to the cloud.
+      Performed analysis and natural language processing on customer survey, free response, and call transcript data to derive quarterly insights and determine key drivers for business stakeholders to enhance customer experience.
+      Worked on 14 additional descriptive and prescriptive analytics projects delivering results to key stakeholders.
+    link: https://www.principal.com/
+  item6:
+    position: Software Engineer I
+    company: Principal Financial Group
+    from: June 2020
+    to: July 2021
+    description: >
+      Engineered 15 new Salesforce functionalities using Java, Javascript, and HTML5 to enhance speed and capability of our business unit members. 
+      Enacted 1-10 daily SQL database changes to fix errors and adjust the business unit’s data tables.
+    link: https://www.principal.com/
+  item5:
+    position: Health Services Officer
+    company: Iowa Army National Guard
+    from: May 2020
+    to: Present
+    description: >
+      Supervise the establishment of platoon operations, direct setup operations and supervise the displacement of treatment squads/teams with company headquarters and supported units.
+    link: https://www.iowanationalguard.com/
+  item4:
+    position: Machine Learning Research Assistant
+    company: Michaelson Labs, Computational Psychiatry and Genomics
+    from: September 2018
+    to: May 2020
+    description: >
+      Developed machine and deep learning models on 5 projects to find patterns in genetic and image data linked to Autism Spectrum Disorder. Contributed to research that resulted in two publications in the field of biomedical imaging.
+    link: https://michaelson.lab.uiowa.edu/
+  item3:
+    position: Software Engineer Intern
+    company: Principal Finanical Group
+    from: July 2019
+    to: August 2019
+    description: >
+      Engineered with Java, JavaScript, and IBM Process Designer to make improvements to image workflow processes.
+    link: https://www.principal.com/
+  item2:
+    position: Cyber Security Intern
+    company: National Security Agency (NSA)
+    from: July 2018
+    to: August 2018
+    description: >
+      Participated in research of classified network diagnostic tools. 
+    link: https://www.nsa.gov/
+  item1:
+    position: IT Assistant
+    company: Lynco Products
+    from: March 2016
+    to: December 2017
+    description: >
+      Designed iOS applications for field agents. Made design changes to company webpage.
+    link: https://www.lyncoproducts.com/
+
+
+# Education section
+education:
+  item1:
+    institution: University of Notre Dame
+    program: M.S. in Applied and Computational Mathematics and Statistics, Data Science Specialization
+    from: August 2020
+    to: May 2022
+  item2:
+    institution: University of Iowa
+    program: Bachelor of Science in Computer Science
+    from: August 2016
+    to: May 2020
+  item3:
+    institution: University of Iowa
+    program: Certificate in Large Data Analysis
+    from: August 2016
+    to: May 2020
+  item4:
+    institution: University of Iowa
+    program: Minor in Military Science
+    from: August 2016
+    to: May 2020
+
+# Certification section
+certification:
+    - AWS Certified AI Practioner
+    - AWS Certified Machine Learning Specialty
+    - Microsoft Certified Azure AI Fundamentals
+    - Microsoft Certified Azure Data Scientist Associate
+    - AWS Cloud Practitioner
+    - DeepLearning.AI & AWS Generative AI with Large Language Models
+    
+# Talks and workshops section
+publications:
+  item0:
+    event: 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)
+    workshop: Sex Differences in the Brain | Divergent Results from Traditional Machine Learning and Convolutional Networks
+    material: https://ieeexplore.ieee.org/document/9098402
+    link: https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/index.htm
+  item1:
+    event: 2019 Adolescent Brain Cognitive Development Neurocognitive Prediction Challenge (ABCD-NP-Challenge 2019)
+    workshop: Ensemble Modeling of Neurocognitive Performance Using MRI-Derived Brain Structure Volumes
+    material: https://link.springer.com/chapter/10.1007/978-3-030-31901-4_15
+    link: https://www.nitrc.org/projects/abcd_study
+  item2:
+    event: Poster session presented at Computational Psychiatry Symposium 2019
+    workshop: Predicting Autism Spectrum Disorder (ASD) at Birth Using Machine Learning
+    material: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/SURF_Poster_Final_BH.pdf?v=1639684968680
+    link: https://computational-symposium.psychiatry.uiowa.edu/
+  item3:
+    event: Poster session presented at Spring Undergraduate Research Festival
+    workshop: Predicting Autism Spectrum Disorder (ASD) at Birth Using Machine Learning
+    material: https://cdn.glitch.me/60420d41-a3cd-44a5-9bd2-e1507d1129c9/SURF_Poster_Final_BH.pdf?v=1639684968680
+    link: https://icru.research.uiowa.edu/
+  
+  
+
+# Honors and awards section
+awards:
+  - Spot Award for oustanding performance at Principal Financial Group 2020
+  - Frank A. Park Scholarship for academic achievement in Computer Science 2020
+  - Iowa Research Center for Undergraduates Research Fellow 2019-2020
+  - 2nd Place team at ABCD-NP-Challenge 2019
+  
+  
+
+# Organizations section:
+organizations:
+  item0:
+    org: IEEE Engineering in Medicine and Biology Society (IEEE EMBS)
+    status: Member
+    from: February 2020
+    to: Present
+    link: https://www.embs.org/
+  item1:
+    org: Institute of Electrical and Electronics Engineers (IEEE)
+    status: Member
+    from: February 2020
+    to: Present
+    link: https://www.ieee.org/
+  item2:
+    org: Association for Computing Machinery (ACM)
+    status: Member
+    from: August 2016
+    to: Present
+    link: https://www.acm.org/
+    
+
+
+
+# Community section:
+community:
+  item0:
+    institution: Omdena
+    program: Community Builder
+    description: "Selected as a community builder at Omdena due to exemplary performance in their AI challenge on the tree identification challenge to prevent fire outbursts."
+    from: September 2019
+    to: Present
+    link: https://omdena.com
+  item1:
+    institution: Future Lab
+    program: Co-founder and Coordinator
+    description: "Co-founder and coordinator of Future Lab, a community of tech developers for the future. We maily work under three axis: a) Develop awesome tech based projects, b) Share knowledge with the community, and c) Networking with other communities. As a member of Future Lab I have participated on big events such as Talent Land with an AI talk."
+    from: April 2017
+    to: Present
+    link: https://futurelab.mx
