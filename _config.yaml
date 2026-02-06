@@ -46,6 +46,7 @@ tools:
   
 extra_skills:
   - Machine learning and deep learning
+  - Generative AI
   - Databases, SQL, Neo4j
   - Image recognition and computer vision
   - Nautral langauage processing
@@ -225,7 +226,8 @@ education:
 
 # Certification section
 certification:
-    - AWS Certified AI Practioner
+    - AWS Certified Generative AI Developer
+    - AWS Certified AI Practitioner
     - AWS Certified Machine Learning Specialty
     - Microsoft Certified Azure AI Fundamentals
     - Microsoft Certified Azure Data Scientist Associate
@@ -287,22 +289,3 @@ organizations:
     to: Present
     link: https://www.acm.org/
     
-
-
-
-# Community section:
-community:
-  item0:
-    institution: Omdena
-    program: Community Builder
-    description: "Selected as a community builder at Omdena due to exemplary performance in their AI challenge on the tree identification challenge to prevent fire outbursts."
-    from: September 2019
-    to: Present
-    link: https://omdena.com
-  item1:
-    institution: Future Lab
-    program: Co-founder and Coordinator
-    description: "Co-founder and coordinator of Future Lab, a community of tech developers for the future. We maily work under three axis: a) Develop awesome tech based projects, b) Share knowledge with the community, and c) Networking with other communities. As a member of Future Lab I have participated on big events such as Talent Land with an AI talk."
-    from: April 2017
-    to: Present
-    link: https://futurelab.mx
